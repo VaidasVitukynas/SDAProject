@@ -1,0 +1,5 @@
+jonas;600;60;vyras
+petras;650;70;vyras
+kazys;700;75;vyras
+danute;550;35;vyras
+onute;450;65;vyras

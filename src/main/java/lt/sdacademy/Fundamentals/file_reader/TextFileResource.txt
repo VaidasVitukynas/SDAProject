@@ -1,0 +1,3 @@
+Labas rytas!
+Mokomes skaityti duomenis is failo, pvz:.text
+trecia eilute.
